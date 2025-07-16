@@ -1,52 +1,66 @@
-# 👋 Hi, I’m Suvajit Paria
+<h1 align="center">🚀 Suvajit Paria — Java Full Stack Developer</h1>
 
-**Java Full‑Stack Developer** based in Bengaluru, India  
-— Passionate about building robust, real‑time web applications using Java, Spring Boot, React, and modern SQL/NoSQL databases.
+<p align="center">
+  <b>💻 Turning Code into Real-World Solutions | ☕ Fueled by Java & Innovation</b><br>
+  <a href="https://www.linkedin.com/in/suvajit-paria-297376205/">🌐 LinkedIn</a> |
+  <a href="mailto:your.email@example.com">📧 Email</a> |
+  <a href="https://github.com/your-github-username">💾 GitHub</a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+Hi! I’m **Suvajit Paria**, a passionate **Java Full Stack Developer** from India 🇮🇳.  
+I'm skilled in building modern web applications using **Java**, **Spring Boot**, **React**, and **SQL/NoSQL** technologies.  
+I believe in writing clean, scalable, and maintainable code — and I love learning new tools and contributing to exciting tech projects.
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Backend:** Java • Spring • Spring Boot • Hibernate • REST APIs  
-- **Frontend:** JavaScript • React • HTML • CSS • Bootstrap  
-- **Databases:** MySQL • PostgreSQL  
-- **Messaging:** WebSocket (STOMP + SockJS)  
-- **Testing & Automation:** Selenium  
-- **Workflow & Practices:** SDLC • Agile methodologies  
+| Category        | Technologies |
+|----------------|--------------|
+| 🧠 Languages    | Java • JavaScript • HTML • CSS • SQL |
+| ⚙️ Backend      | Spring • Spring Boot • Hibernate • REST API |
+| 🎨 Frontend     | React • Bootstrap |
+| 🗃️ Databases    | MySQL • PostgreSQL |
+| 🔗 Messaging    | WebSocket (STOMP + SockJS) |
+| 🧪 Testing      | Selenium |
+| 📁 Tools        | Git • GitHub • VS Code • IntelliJ IDEA |
 
 ---
 
-## 🚀 Recent Project: Real‑Time Chat Application  
-> Launched a real‑time chat app using Spring Boot + WebSocket (STOMP + SockJS) with a responsive Bootstrap UI.  
-**Highlights:**  
-- Real‑time messaging powered by WebSocket & STOMP  
-- Backend in Spring Boot; frontend layered with HTML/CSS, Bootstrap & animated gradients  
-- Hands‑on experience with message brokers, endpoint-controller mappings, and STOMP.js/SockJS integration  
-- Built polished, interactive UI with seamless message handling  
-Check it out on GitHub: https://lnkd.in/gNW‑fKbb :contentReference[oaicite:1]{index=1}
+## 📌 Projects
+
+### 💬 Real-Time Chat Application  
+A responsive full-stack chat app powered by **Spring Boot**, **STOMP**, and **SockJS**, styled with **Bootstrap**.
+
+✨ Features:
+- Real-time messaging via WebSocket
+- Smooth animations and transitions
+- Secure endpoints and controller mapping
+
+🔗 [View Project on GitHub](https://lnkd.in/gNW‑fKbb)  
+
 
 ---
 
-## 📚 Learning & Certification  
-- Completed **The Complete JavaScript Course 2024: From Zero to Expert!** on Udemy — mastered advanced JS concepts and real-world project development :contentReference[oaicite:2]{index=2}  
-- Solid foundation in Java, SQL, full‑stack development from B.E in Information Technology :contentReference[oaicite:3]{index=3}
+## 📚 Certifications & Learning
+
+- ✅ _The Complete JavaScript Course 2024: From Zero to Expert!_ – Udemy  
+- ✅ Java Full Stack Development Training – JSpiders, Kolkata  
+- ✅ B.E in Information Technology
 
 ---
 
-## 🔭 What I’m Working On  
-- Enhancing **real-time web systems** and messaging applications  
-- Diving deeper into cloud-native architectures, microservices, CI/CD pipelines  
-- Applying automation to testing workflows using Selenium
+
+## 📬 Connect With Me
+
+- 🌐 **LinkedIn:** [linkedin.com/in/suvajit-paria-297376205](https://www.linkedin.com/in/suvajit-paria-297376205/)  
+- 📧 **Email:** your.email@example.com  
+- 💾 **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)
 
 ---
 
-## 📫 Get in Touch  
-- **LinkedIn:** https://www.linkedin.com/in/suvajit-paria-297376205/  
-- **Email:** [your.email@domain.com]  
-- **GitHub:** [Your GitHub Username]
-
----
-
-## 🤝 Let’s Collaborate!  
-I’m eager to connect with fellow developers, open-source contributors, or anyone interested in real-time systems and full-stack dev — feel free to reach out!
-
+<h3 align="center">✨ Let's build something awesome together!</h3>
