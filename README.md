@@ -58,7 +58,7 @@ A responsive full-stack chat app powered by **Spring Boot**, **STOMP**, and **So
 ## 📬 Connect With Me
 
 - 🌐 **LinkedIn:** [linkedin.com/in/suvajit-paria-297376205](https://www.linkedin.com/in/suvajit-paria-297376205/)  
-- 📧 **Email:** your.email@example.com  
+- 📧 **Email:** (suvajitparias@gmail.com)  
 - 💾 **GitHub:** [github.com/suvajit20203051](https://github.com/suvajit20203051)
 
 ---
