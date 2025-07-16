@@ -3,8 +3,8 @@
 <p align="center">
   <b>💻 Turning Code into Real-World Solutions | ☕ Fueled by Java & Innovation</b><br>
   <a href="https://www.linkedin.com/in/suvajit-paria-297376205/">🌐 LinkedIn</a> |
-  <a href="mailto:your.email@example.com">📧 Email</a> |
-  <a href="https://github.com/your-github-username">💾 GitHub</a>
+  <a href="mailto:suvajitparias@gmail.com">📧 Email</a> |
+ 
 </p>
 
 ---
@@ -41,7 +41,7 @@ A responsive full-stack chat app powered by **Spring Boot**, **STOMP**, and **So
 - Smooth animations and transitions
 - Secure endpoints and controller mapping
 
-🔗 [View Project on GitHub](https://lnkd.in/gNW‑fKbb)  
+🔗 [View Project on GitHub](https://github.com/suvajit20203051/SPRING-PROJECT)  
 
 
 ---
@@ -59,7 +59,7 @@ A responsive full-stack chat app powered by **Spring Boot**, **STOMP**, and **So
 
 - 🌐 **LinkedIn:** [linkedin.com/in/suvajit-paria-297376205](https://www.linkedin.com/in/suvajit-paria-297376205/)  
 - 📧 **Email:** your.email@example.com  
-- 💾 **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)
+- 💾 **GitHub:** [github.com/suvajit20203051](https://github.com/suvajit20203051)
 
 ---
 
